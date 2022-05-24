@@ -1,0 +1,6 @@
+numpy==1.21.1
+pandas==1.2.2
+plotly==4.14.3
+scikit-learn==0.24.1
+streamlit==1.6.0
+streamlit-aggrid==0.2.3.post2
